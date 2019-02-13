@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.example.job.data.persistence.config.AsyncBatchConfigurer
